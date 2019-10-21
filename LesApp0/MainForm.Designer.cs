@@ -62,7 +62,7 @@
             this.Controls.Add(this.dataGrid);
             this.Controls.Add(this.bt);
             this.Name = "MainForm";
-            this.Text = "LesApp0";
+            this.Text = "LesApp0 (Database First)";
             ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).EndInit();
             this.ResumeLayout(false);
 
